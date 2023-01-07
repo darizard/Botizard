@@ -1,0 +1,3 @@
+C:\Users\Cerix\source\twitch\botizard\obj\Debug\botizard.njsproj.AssemblyReference.cache
+C:\Users\Cerix\source\twitch\botizard\obj\Debug\botizard.njsproj.CoreCompileInputs.cache
+C:\Users\Cerix\source\twitch\botizard\bin\Microsoft.NodejsTools.WebRole.dll

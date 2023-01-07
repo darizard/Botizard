@@ -1,0 +1,10 @@
+{
+  "name": "botizard",
+  "version": "0.0.0",
+  "description": "botizard",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "type": "module"
+}

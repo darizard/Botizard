@@ -1,0 +1,30 @@
+/*{
+	"viewerlevels" : {
+	"connectionLimit" : 25,
+	"host" : "localhost",
+	"user" : "dar",
+	"password" : "l1z4dIt13#!",
+	"database" : "viewerlevels"
+	},
+	"viewerlevels_test" : {
+		"connectionLimit" : 25,
+		"host" : "localhost",
+		"user" : "dar",
+		"password" : "l1z4dIt13#!",
+		"database" : "viewerlevels_test"
+	},
+	"chat" : {
+		"connectionLimit" : 25,
+		"host" : "localhost",
+		"user" : "dar",
+		"password" : "l1z4dIt13#!",
+		"database" : "chat"
+	}, 
+	"chat_test" : {
+		"connectionLimit" : 25,
+		"host" : "localhost",
+		"user" : "dar",
+		"password" : "l1z4dIt13#!",
+		"database" : "chat_test"
+	}
+}*/
